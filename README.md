@@ -18,4 +18,5 @@ pytest --cov=calculadora -v
 ## Desenvolvido por:
 
 Pedro Henrique Levandoski Ruths
+
 Gustavo Vinicius de Oliveira
